@@ -1,3 +1,4 @@
 autopep8==2.0.1
 autoflake==2.0.2
 yapf
+black
